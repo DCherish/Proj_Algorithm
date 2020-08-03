@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (BitonicSort.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BitonicSort.cpp
+  LINK : C:\Users\422-40\Desktop\12141680 알고리즘 과제1\알고리즘과제\BitonicSort\Debug\12141680.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  BitonicSort.vcxproj -> C:\Users\422-40\Desktop\12141680 알고리즘 과제1\알고리즘과제\BitonicSort\Debug\12141680.exe
+  BitonicSort.vcxproj -> C:\Users\422-40\Desktop\12141680 알고리즘 과제1\알고리즘과제\BitonicSort\Debug\12141680.pdb (Full PDB)
