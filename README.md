@@ -1,7 +1,7 @@
 # Algorithm Project 1
 * * *
 ### 프로젝트 목표
-* **정렬 알고리즘** 중 4가지의 알고리즘을를 구현하여 서로간의 성능을 분석  
+* **정렬 알고리즘** 중 4가지의 알고리즘을를 구현하여 서로 간의 성능을 분석  
   * **ShellSort**  
   * **Median-of-three QuickSort**  
   * **Odd-Even Transposition Sort**  
