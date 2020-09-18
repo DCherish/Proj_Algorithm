@@ -15,9 +15,9 @@
 <img src="/image/d2.png" width="420px" height="350px" alt="BlockDiagram"></img><br/>
 > **모든 Sort**를 서로 비교 및 분석한 결과 (데이터 개수 및 실행시간)  
 > **Median-of-Three QuickSort < ShellSort < BitonicSort << Odd-EvenSort**  
-> 특히, Mo3 QuickSort(**O(nlogn)**)과 Odd-EvenSort(**O(n^2)**)을 비교하면 확연한 차이가 나는 것을 확인  
+> 특히, Mo3 QuickSort(**O(nlogn)**)와 Odd-EvenSort(**O(n^2)**)를 비교하면 확연한 차이가 나는 것을 확인  
 
 <img src="/image/d3.png" width="700px" height="350px" alt="BlockDiagram"></img><br/><br/>
-<img src="/image/d4.png" width="600px" height="200px" alt="BlockDiagram"></img><br/>
-> Visual(**CPU**)와 CUDA(**GPU**)를 서로 비교 및 분석한 결과 (데이터 개수 및 실행시간)  
-> **데이터 Set의 개수**가 증가하면 증가할수록 **GPU**가 **CPU**에 비하여 성능이 압도적으로 좋음을 확인
+<img src="/image/d4.png" width="650px" height="200px" alt="BlockDiagram"></img><br/>
+> CUDA(**GPU**)와 Visual(**CPU**)을 서로 비교 및 분석한 결과 (데이터 개수 및 실행시간)  
+> **데이터 Set의 개수**가 **증가**할수록 **GPU**가 **CPU**에 비하여 성능이 압도적으로 좋음을 확인
