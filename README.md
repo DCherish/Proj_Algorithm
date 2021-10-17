@@ -11,7 +11,7 @@
 # 🧐 프로젝트 목표
 - **정렬 알고리즘** 중 4가지의 알고리즘을 구현하여 서로 간의 성능을 분석  
   - `ShellSort` `Median-of-three QuickSort` `Odd-Even Transposition Sort` `BitonicSort`  
-- **GPU**를 이용하는 **CUDA**라는 프로그램을 통하여 **Visual**(**CPU**)와의 차이 또한 비교 및 분석  
+- **GPU**를 이용하는 **CUDA**라는 프로그램을 통하여 **Visual**(**CPU**)과의 차이 또한 비교 및 분석  
 
 # 👨‍💻 사용 기술 Stack
 - [x] Visual Studio  
